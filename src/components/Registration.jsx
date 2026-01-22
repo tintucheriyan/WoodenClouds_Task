@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import "./Registration.css";
 
 const Registration = () => {
   const [step, setStep] = useState(1);
